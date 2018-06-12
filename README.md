@@ -9,3 +9,7 @@ Make a new branch from ui. Call it ui-homepage
 I made this line from ui-homepage
 
 ## Nimesongesha tena
+## Task 3
+Creating tawi branch
+Task 3 updated
+Chokoza kidogo

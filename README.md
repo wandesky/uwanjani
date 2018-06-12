@@ -1,5 +1,8 @@
 # uwanjani
 Playing around with git 
 
-##Task 1
+## Task 1
 Songesha branch ui mbele ya master (kidogo tu)
+
+## Task 2
+Make a new branch from ui. Call it ui-homepage
